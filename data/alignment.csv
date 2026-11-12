@@ -1,0 +1,11 @@
+pyramid,site,alignment_error_arcmin,direction,precision_source,note,grade,source_ref
+Khufu,Great Pyramid of Giza,-3.9,counterclockwise from true north,Petrie 1882-83 theodolite survey,"3'43\ +/- 6\"" west of true north""",A,63
+Khufu,Great Pyramid of Giza,-3.9,counterclockwise from true north,Dash & Paulson 2015 base survey,"Mean casing deviation 3'54\ +/- 44\""""",A,61
+Khufu,Great Pyramid of Giza,-4.35,counterclockwise from true north,Dash & Paulson 2015 base survey (west side),"4'21"" west of true north; 95% CI 3'45"" to 4'56""",A,61
+Khufu,Great Pyramid of Giza,-2.5,north of due east (north side),Dash & Paulson 2015 base survey,"2'30\ north of due east; 95% CI 2'07\"" to 2'53\""""",A,61
+Khafre,Great Pyramid of Giza,-6.0,counterclockwise from true north,Dash published analysis,Approximately 6 arcminutes, A,7
+Sneferu Red Pyramid,Dahshur,-8.7,counterclockwise from true north,Dash published analysis,8.7 arcminutes,A,7
+Mean of three,multiple,-6.2,counterclockwise,Dash published analysis,Mean error of Khufu Khafre and Red Pyramid,A,7
+Experimental line 1,Pomfret Connecticut,-7.3,counterclockwise,Dash equinoctial gnomon experiment 22 Sep 2016,Two experiment lines mean error -7.3 arcminutes,B,7
+Experimental line 2,Pomfret Connecticut,-7.3,counterclockwise,Dash equinoctial gnomon experiment 22 Sep 2016,Same experiment,B,7
+Trial Passages,Great Pyramid of Giza,+15.0,east of true north,Petrie,Approximately 1/4 degree east of true north; deliberately offset,C,63

@@ -1,0 +1,111 @@
+id,quantity,value,unit,grade,source_ref,notes
+P01,Original height,146.6,m,A,6,280 royal cubits; tallest human structure for >3700 years
+P02,Present height after casing removal,138.5,m,A,6,Some sources give 138.8 m
+P03,Base side length (mean of four sides),230.33,m,A,61,Means range 230.329-230.407 m from 2015 survey
+P04,Base area,5.3,hectares,A,61,13.1 acres
+P05,Reconstructed volume,2583283,m3,A,1,Includes internal hillock; some sources round to 2.6 million m3
+P06,Total stone mass,6000000,t,A,1,"Lehner 1997 estimate via Copas 2026; BBC gives ""almost 6 million tons"""
+P07,Estimated block count,2300000,blocks,A,1,Average 1.13 m3 and ~2.9 t per block
+P08,Local Giza limestone (core),5250000,t,A,1,Range 5.0-5.5 Mt; 83-92% of total mass
+P09,Tura white limestone (casing),115000,t,A,1,~2% of total mass; ~12 km by river
+P10,Aswan granite (chambers/beams/plugs),60000,t,B,1,Lehner range 50-70 kt; Wikipedia gives 8 kt (conflict flagged)
+P11,Gypsum mortar,500000,t,A,2,Structural mortar; gypsum-based
+P12,Design slope (seked),51.833,degrees,A,6,5+1/2 palms = 51 deg 50 min 40 sec
+P13,Design height in royal cubits,280,cubits,A,6,
+P14,Design base side in royal cubits,440,cubits,A,6,
+P15,Mean casing joint opening,0.5,mm,A,2,North-eastern casing stones
+P16,Base levelling accuracy,fraction,inch,A,6,Across the entire 13.1-acre base; Petrie trenches-and-water method
+P17,King's Chamber length,10.47,m,A,6,20 cubits
+P18,King's Chamber width,5.23,m,A,6,10 cubits
+P19,King's Chamber height,5.8,m,A,6,
+P20,King's Chamber roof slabs,9,slabs,A,6,Granite; ~400 t total
+P21,King's Chamber roof slab mass range,25-80,t,A,6,Largest ~5 ft x 7 ft x 27 ft
+P22,Relieving chambers,5,chambers,A,6,Davison's / Wellington's / Nelson's / Lady Arbuthnot's / Campbell's
+P23,Relieving chamber beam mass range,25-80,t,A,55,"Documented count runs to ~38 blocks, not hundreds"
+P24,King's Chamber settlement,2.5-5,cm,A,6,Beams cracked near the south wall; attributed to the 908 CE earthquake
+P25,Grand Gallery length,46.68,m,A,6,From the 23rd to the 48th course
+P26,Grand Gallery height,8.6,m,A,6,
+P27,Grand Gallery base width,2.1,m,A,6,4 cubits
+P28,Grand Gallery top width,1.0,m,A,6,2 cubits after 7 corbel steps
+P29,Grand Gallery corbel step,6-10,cm,A,6,"Inward, each side"
+P30,Grand Gallery / Ascending Passage mean slope,26.213,degrees,A,58,26 deg 12 min 50 sec (Petrie 1883)
+P31,Ascending Passage granite plug mass,5,t,A,58,Approximately
+P32,Construction period,23-27,years,B,10,Reign of Khufu
+P33,Date of construction,c. 2600 BCE,date,A,1,Built over about 26 years
+P34,Reported stone placement rate,1,tonne/2-3 min,A,44,Human draw teams on a ramp of maximum 10%
+P35,Blocks placed per day (20-year build),340,blocks/day,A,66,Lehner arithmetic
+P36,Stone placed per day,800,t/day,A,6,">12 blocks per hour, day and night"
+P37,Casing stones surviving,17,percent,A,61,Remainder lost to later quarrying and reuse
+P38,Number of principal internal elements,8,elements,A,52,
+P39,Ahramat Nile Branch length,64,km,A,23,Communications Earth & Environment 5:233 (2024)
+P40,Ahramat Nile Branch width,0.5,km,A,6,
+P41,Ahramat Nile Branch depth,25,m,A,6,At least
+P42,Widan el-Faras quarry road length,11,km,A,16,Oldest paved road in the world; quay at Qasr el-Sagha
+P43,Tura quarry system length,6,km,A,11,"Underground quarries, east bank"
+P44,Aswan granite transport distance,900,km,A,6,By river
+P45,Smoothed sand friction coefficient (dry),0.6-0.8,-,A,29,Static; stone on sand
+P46,Smoothed sand friction coefficient (wet sledge),0.2-0.3,-,A,29,Kinetic; wooden sledge on wet sand
+P47,Rolling resistance on prepared road,0.05-0.1,-,A,29,Wooden rollers
+P48,Fall et al. friction reduction factor,~2,ratio,A,31,Almost a factor of two at optimum water content
+P49,Optimum water content,~5,percent,A,31,Above this friction rises again
+P50,Pulling force reduction (weighted sledge),40,percent,A,31,As much as 40%
+P51,Pulling force reduction (standard sand),70,percent,A,31,As much as 70%
+P52,Creep threshold water content,~7,percent,A,32,Above this wet sand has more friction than dry
+P53,Djehutihotep sledge pullers,172,men,A,31,Four ropes; one man pouring water
+P54,Djehutihotep colossus mass,60-80,t,C,31,Sources differ: ~70-80 t or ~58 t
+P55,Djehutihotep painting date,c. 1880 BCE,date,A,42,"12th Dynasty, el-Bersheh"
+P56,Men to tow a 2 t block (sledge on track),12-20,men,A,35,Lehner & Hopkins 1997 NOVA replication
+P57,Men to lever a block under 1 t,4-5,men,A,35,
+P58,Quarrying time per 2.5 t block,45,minutes,A,34,Cooper tools and dolerite pounders
+P59,Rod-dodecagon rolling mu_d,0.30,-,A,37,Steady rolling; 2:1 rope advantage gives 0.15*m*g
+P60,Men to move 2.5 t at 0.5 m/s (rod method),50,men,A,37,
+P61,Parry prepared-roadway mu_d,0.2,-,A,36,2.5 t block up a 1:4 slope with 10-14 men
+P62,Pyramid centre of mass height,36.65,m,A,1,Quarter of original height
+P63,Gravitational potential energy,2.16e12,J,A,39,m*g*h/4
+P64,Energy floor workforce,800-900,men,A,39,Theoretical minimum at 450 kJ/man-day
+P65,Realistic construction labour,3300,men,A,39,With realistic overheads beyond lifting
+P66,Pyramid fundamental frequency,2.0-2.6,Hz,A,52,Mean ~2.3 Hz across all structural elements
+P67,Surrounding soil frequency,0.6,Hz,A,52,"Far from the pyramid's frequency, preventing resonance amplification"
+P68,Seismic measurement points,37,points,A,52,HVSR ambient-noise survey
+P69,Relative amplification factor,1 to 4,ratio,A,52,1.0 at ground level to ~4 at King's Chamber elevation
+P70,Relieving chamber amplification,3,ratio,A,52,Lower than the surrounding trend
+P71,Foundation soil vulnerability index Kg,8.2,-,A,52,Soil only; below the 20 threshold for elevated vulnerability
+P72,1847 earthquake magnitude,~6.8,M,A,52,No major structural damage
+P73,1992 earthquake magnitude,5.8,M,A,52,No major structural damage
+P74,Big Void minimum length,30,m,A,73,Nature 552:386 (2017)
+P75,Big Void height above ground,21,m,A,75,
+P76,Big Void distance from detector,40-50,m,A,75,
+P77,Big Void combined significance,5.8,sigma,A,75,8.4 sigma for the Grand Gallery reference
+P78,SP-NFC length (Nagoya),9.06,m,A,77,+- 0.07 m
+P79,SP-NFC width (Nagoya),2.02,m,A,77,+- 0.06 m
+P80,SP-NFC height (Nagoya),2.18,m,A,77,+- 0.17 m
+P81,SP-NFC length (CEA),9.23,m,A,77,+- 0.48 m
+P82,SP-NFC width (CEA),1.87,m,A,77,+- 0.11 m
+P83,SP-NFC height (CEA),1.86,m,A,77,+- 0.12 m
+P84,SP-NFC slope,-0.3,degrees,A,77,+- 1.5 degrees; horizontal corridor favoured
+P85,Endoscope diameter,5,mm,A,77,Used 24 February 2023
+P86,Merer boat crew,40,men,A,20,
+P87,Merer phyle size,160,men,A,19,
+P88,Blocks per boat trip,30,blocks,A,20,Each 2-3 t
+P89,Blocks per month,200,blocks,A,20,2-3 round trips per 10-day week
+P90,Boat load,70-80,t,A,19,
+P91,Loaded transit Tura to Giza,2,days,A,19,Unloaded return took 1 day
+P92,Workforce protein requirement,45-50,g/day,A,69,
+P93,Cattle consumed daily,11,head/day,A,69,"For ~10,000 workers"
+P94,Sheep and goats consumed daily,37,head/day,A,69,
+P95,Cattle herd required,21900,head,A,69,
+P96,Sheep and goat herd required,54750,head,A,69,
+P97,Herder workforce,3650,people,A,69,"With families ~18,980; under 2% of Egypt's population"
+P98,Gallery barracks capacity,1600-2000,workers,C,67,Rotating labour force
+P99,Herodotus workforce claim,100000,men,E,66,"Second-hand; gangs of 100,000 on three-month rotation"
+P100,Modern workforce estimate (Digital Giza),20000-30000,people,C,42,
+P101,Straight ramp fill volume at 1:10,8000000,m3,B,30,>3x the pyramid's volume
+P102,Straight ramp length at 1:10,1.4,km,B,30,
+P103,Hatnub ramp width,7.8,m,A,43,Central ramp between two stairs
+P104,Hatnub ramp length,80,m,A,43,
+P105,Hatnub ramp gradient,20,percent,A,43,Steepest measured Old Kingdom haul ramp
+P106,Internal ramp cross-section,2 x 2,m,B,48,Path ~1600 m = 6400 m3 = 0.25% of pyramid volume
+P107,Back-and-forth ramp gradient,1:8,ratio,B,10,About 7 degrees
+P108,Back-and-forth ramp tier volume,268800,m3,B,10,10.4% of the pyramid's 2.59 million m3
+P109,Internal ramp transition height,43,m,B,48,About 65% of volume complete below this level
+P110,Sandwich: moistened sand optimum friction drop,~50,percent,A,31,
